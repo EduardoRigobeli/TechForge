@@ -1,0 +1,25 @@
+@charset "UTF-8";
+
+body {
+    background-color: rgb(60, 240, 99);
+    font-family: Arial, Verdana;
+    text-align: justify;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    background-color: black;
+    margin-left: 450px;
+    margin-right: 450px;
+    padding: 10px 40px 10px;
+    border-radius: 10px;
+}
+
+h2 {
+    color: white;
+}
+
+.inicio {
+    text-align: center;
+}
